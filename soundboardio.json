@@ -1,0 +1,157 @@
+{
+  "name": "Pepa",
+  "shortName": "Pepa",
+  "description": "Zejtra se naučím s klávesnicí",
+  "author": "DP Team",
+  "url": "https://aquasoup.com",
+  "color": "#795548",
+  "version": "1.0.0",
+  "rootUrl": "https://soundboardio.aquasoup.com/pepa/",
+  "icons": [
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "purpose": "maskable any",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Baterka, co to je za picovinu",
+      "filename": "baterka-co-to-je-za-picovinu.mp3"
+    },
+    {
+      "name": "Chichi (velký kašel)",
+      "filename": "chichi-velky-kasel.mp3"
+    },
+    {
+      "name": "Chrčení",
+      "filename": "chrceni.mp3"
+    },
+    {
+      "name": "Co takhle cíčko?",
+      "filename": "co-takhle-cicko.mp3"
+    },
+    {
+      "name": "Já jdu ještě něco udělat",
+      "filename": "dobry-ja-jdu-jeste-neco-udelat.mp3"
+    },
+    {
+      "name": "Haha (kašel)",
+      "filename": "haha-kasel.mp3"
+    },
+    {
+      "name": "Hahaha",
+      "filename": "hahaha.mp3"
+    },
+    {
+      "name": "Hehe",
+      "filename": "hehe.mp3"
+    },
+    {
+      "name": "Ty seš zase v tranzu",
+      "filename": "hihi-ty-ses-zase-v-tranzu.mp3"
+    },
+    {
+      "name": "Hmmm, to je jedno",
+      "filename": "hmmmmm-to-je-jedno.mp3"
+    },
+    {
+      "name": "Já ho hledám",
+      "filename": "ja-ho-hledam.mp3"
+    },
+    {
+      "name": "Je to tam!",
+      "filename": "je-to-tam.mp3"
+    },
+    {
+      "name": "Ježiš, tak já to zkusimm sám",
+      "filename": "jezis-tak-ja-to-zkusim-sam.mp3"
+    },
+    {
+      "name": "Ježiši Kriste, teď se to úplně",
+      "filename": "jezisi-kriste-ted-se-to-uplne.mp3"
+    },
+    {
+      "name": "Jo, ale ne!",
+      "filename": "jo-ale-ne.mp3"
+    },
+    {
+      "name": "Jojojojojojo",
+      "filename": "jojojojojojo.mp3"
+    },
+    {
+      "name": "Kašel (normál)",
+      "filename": "kasel-normal.mp3"
+    },
+    {
+      "name": "Každopádně jsi zlobil",
+      "filename": "kazdopadne-jsi-zlobil.mp3"
+    },
+    {
+      "name": "Kde je ten Roman?",
+      "filename": "kde-je-ten-roman.mp3"
+    },
+    {
+      "name": "Kdyžtak se Hansek pobaví",
+      "filename": "kdytak-se-hansek-pobavi.mp3"
+    },
+    {
+      "name": "Linux",
+      "filename": "linux.mp3"
+    },
+    {
+      "name": "No nic",
+      "filename": "no-nic.mp3"
+    },
+    {
+      "name": "Ojwauuuu",
+      "filename": "ojwauuuu.mp3"
+    },
+    {
+      "name": "Romane, budeš se muset naučit kouřit",
+      "filename": "romane-budes-se-muset-naucit-kourit.mp3"
+    },
+    {
+      "name": "Romane, co se mnou chcete dělat?",
+      "filename": "romane-co-se-mnou-chete-delat.mp3"
+    },
+    {
+      "name": "Sakra",
+      "filename": "sakra.mp3"
+    },
+    {
+      "name": "Šišikriste",
+      "filename": "sisikriste.mp3"
+    },
+    {
+      "name": "Tak dobrý, já na to prdim a jdeme",
+      "filename": "tak-dobry-ja-na-to-prdim-a-jdeme.mp3"
+    },
+    {
+      "name": "To by zase chytráci měli kecy",
+      "filename": "to-by-zase-chytraci-meli-kecy.mp3"
+    },
+    {
+      "name": "Ty prase",
+      "filename": "ty-prase.mp3"
+    },
+    {
+      "name": "Ty seš vopičák",
+      "filename": "ty-ses-vopicak.mp3"
+    },
+    {
+      "name": "Všichni jste kokoti a pošleš to",
+      "filename": "vsichni-jste-kokoti-a-posles-to.mp3"
+    },
+    {
+      "name": "Zítra se naučím s klávesnicí",
+      "filename": "zitra-se-naucim-s-klavesnici.mp3"
+    }
+  ]
+}

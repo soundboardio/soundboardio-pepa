@@ -1,2 +1,3 @@
-# soundboardio-pepa
-Plugin for SoundBoardio
+# SoundBoardio plugin: Pepa
+
+Plugin for SoundBoardio app
