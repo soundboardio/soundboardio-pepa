@@ -1,0 +1,24 @@
+{
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#000000",
+    "statusBar.foreground": "#ffffff"
+  },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+    "source.fixAll": true
+  },
+  "json.schemas": [
+    {
+      "fileMatch": ["/soundboardio.json"],
+      "url": "https://raw.githubusercontent.com/soundboardio/plugins/master/.vscode/soundboardio.schema.json"
+    }
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "editor.tabSize": 2,
+  "files.eol": "\r\n",
+  "files.encoding": "utf8",
+  "prettier.endOfLine": "lf"
+}
