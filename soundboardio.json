@@ -26,135 +26,364 @@
   "tiles": [
     {
       "name": "Baterka, co to je za pičovinu",
-      "filename": "baterka-co-to-je-za-picovinu.mp3"
+      "filename": "baterka-co-to-je-za-picovinu.mp3",
+      "tags": []
     },
     {
       "name": "Chichi (velký kašel)",
-      "filename": "chichi-velky-kasel.mp3"
+      "filename": "chichi-velky-kasel.mp3",
+      "tags": []
     },
     {
       "name": "Chrčení",
-      "filename": "chrceni.mp3"
+      "filename": "chrceni.mp3",
+      "tags": []
     },
     {
       "name": "Co takhle cíčko?",
-      "filename": "co-takhle-cicko.mp3"
+      "filename": "co-takhle-cicko.mp3",
+      "tags": []
     },
     {
       "name": "Já jdu ještě něco udělat",
-      "filename": "dobry-ja-jdu-jeste-neco-udelat.mp3"
+      "filename": "dobry-ja-jdu-jeste-neco-udelat.mp3",
+      "tags": []
     },
     {
       "name": "Haha (kašel)",
-      "filename": "haha-kasel.mp3"
+      "filename": "haha-kasel.mp3",
+      "tags": []
     },
     {
       "name": "Hahaha",
-      "filename": "hahaha.mp3"
+      "filename": "hahaha.mp3",
+      "tags": []
     },
     {
       "name": "Hehe",
-      "filename": "hehe.mp3"
+      "filename": "hehe.mp3",
+      "tags": []
     },
     {
       "name": "Ty seš zase v tranzu",
-      "filename": "hihi-ty-ses-zase-v-tranzu.mp3"
+      "filename": "hihi-ty-ses-zase-v-tranzu.mp3",
+      "tags": []
     },
     {
       "name": "Hmmm, to je jedno",
-      "filename": "hmmmmm-to-je-jedno.mp3"
+      "filename": "hmmmmm-to-je-jedno.mp3",
+      "tags": []
     },
     {
       "name": "Já ho hledám",
-      "filename": "ja-ho-hledam.mp3"
+      "filename": "ja-ho-hledam.mp3",
+      "tags": []
     },
     {
       "name": "Je to tam!",
-      "filename": "je-to-tam.mp3"
+      "filename": "je-to-tam.mp3",
+      "tags": []
     },
     {
       "name": "Ježiš, tak já to zkusimm sám",
-      "filename": "jezis-tak-ja-to-zkusim-sam.mp3"
+      "filename": "jezis-tak-ja-to-zkusim-sam.mp3",
+      "tags": []
     },
     {
       "name": "Ježiši Kriste, teď se to úplně",
-      "filename": "jezisi-kriste-ted-se-to-uplne.mp3"
+      "filename": "jezisi-kriste-ted-se-to-uplne.mp3",
+      "tags": []
     },
     {
       "name": "Jo, ale ne!",
-      "filename": "jo-ale-ne.mp3"
+      "filename": "jo-ale-ne.mp3",
+      "tags": []
     },
     {
       "name": "Jojojojojojo",
-      "filename": "jojojojojojo.mp3"
+      "filename": "jojojojojojo.mp3",
+      "tags": []
     },
     {
       "name": "Kašel (normál)",
-      "filename": "kasel-normal.mp3"
+      "filename": "kasel-normal.mp3",
+      "tags": []
     },
     {
       "name": "Každopádně jsi zlobil",
-      "filename": "kazdopadne-jsi-zlobil.mp3"
+      "filename": "kazdopadne-jsi-zlobil.mp3",
+      "tags": []
     },
     {
       "name": "Kde je ten Roman?",
-      "filename": "kde-je-ten-roman.mp3"
+      "filename": "kde-je-ten-roman.mp3",
+      "tags": []
     },
     {
       "name": "Kdyžtak se Hansek pobaví",
-      "filename": "kdytak-se-hansek-pobavi.mp3"
+      "filename": "kdytak-se-hansek-pobavi.mp3",
+      "tags": []
     },
     {
       "name": "Linux",
-      "filename": "linux.mp3"
+      "filename": "linux.mp3",
+      "tags": []
     },
     {
       "name": "No nic",
-      "filename": "no-nic.mp3"
+      "filename": "no-nic.mp3",
+      "tags": []
     },
     {
       "name": "Ojwauuuu",
-      "filename": "ojwauuuu.mp3"
+      "filename": "ojwauuuu.mp3",
+      "tags": []
     },
     {
       "name": "Romane, budeš se muset naučit kouřit",
-      "filename": "romane-budes-se-muset-naucit-kourit.mp3"
+      "filename": "romane-budes-se-muset-naucit-kourit.mp3",
+      "tags": []
     },
     {
       "name": "Romane, co se mnou chcete dělat?",
-      "filename": "romane-co-se-mnou-chete-delat.mp3"
+      "filename": "romane-co-se-mnou-chete-delat.mp3",
+      "tags": []
     },
     {
       "name": "Sakra",
-      "filename": "sakra.mp3"
+      "filename": "sakra.mp3",
+      "tags": []
     },
     {
       "name": "Šišikriste",
-      "filename": "sisikriste.mp3"
+      "filename": "sisikriste.mp3",
+      "tags": []
     },
     {
       "name": "Tak dobrý, já na to prdim a jdeme",
-      "filename": "tak-dobry-ja-na-to-prdim-a-jdeme.mp3"
+      "filename": "tak-dobry-ja-na-to-prdim-a-jdeme.mp3",
+      "tags": []
     },
     {
       "name": "To by zase chytráci měli kecy",
-      "filename": "to-by-zase-chytraci-meli-kecy.mp3"
+      "filename": "to-by-zase-chytraci-meli-kecy.mp3",
+      "tags": []
     },
     {
       "name": "Ty prase",
-      "filename": "ty-prase.mp3"
+      "filename": "ty-prase.mp3",
+      "tags": []
     },
     {
       "name": "Ty seš vopičák",
-      "filename": "ty-ses-vopicak.mp3"
+      "filename": "ty-ses-vopicak.mp3",
+      "tags": []
     },
     {
       "name": "Všichni jste kokoti a pošleš to",
-      "filename": "vsichni-jste-kokoti-a-posles-to.mp3"
+      "filename": "vsichni-jste-kokoti-a-posles-to.mp3",
+      "tags": []
     },
     {
       "name": "Zítra se naučím s klávesnicí",
-      "filename": "zitra-se-naucim-s-klavesnici.mp3"
+      "filename": "zitra-se-naucim-s-klavesnici.mp3",
+      "tags": []
+    },
+    {
+      "name": "A to mluvim s tebou, Bárte",
+      "filename": "a-to-mluvim-s-tebou-barte.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Ach jo zase začíná být víc práce",
+      "filename": "ach-jo-zase-zacina-byt-vic-prace.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Banáne!",
+      "filename": "banane.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Barte, co má tohle znamenat?",
+      "filename": "barte-co-ma-tohle-znamenat.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Budeš chodit na angličtinu?",
+      "filename": "budes-chodit-na-aj-barte.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Dobrý, já to takhle asi pushnu",
+      "filename": "dobry-ja-to-takhle-asi-pushnu.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Dropni si pár tabulek",
+      "filename": "dropni-si-par-tabulek.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Viděls to HTMLko?",
+      "filename": "hele-chiko-videljs-to-htmlko.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Heleďte, co oběd?",
+      "filename": "heledte-co-obed.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Jak to bylo hloupoučký, no",
+      "filename": "jak-to-bylo-hloupoucky-no.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Takovou tu lišticku",
+      "filename": "jako-na-takovou-tu-listicku.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Jdeš po mně",
+      "filename": "jdes-po-mne.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Jsem ti zase pushnul",
+      "filename": "jsem-ti-zase-pushnul-chiko.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Mlíko!",
+      "filename": "mliko.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Nebylo mlíko, zajdi do obchodu",
+      "filename": "nebylo-mliko-zajdi-do-obchodu.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Neprovokuj ho",
+      "filename": "neprovokuj-ho.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Peklo",
+      "filename": "peklo.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Rychlejší vyhrává",
+      "filename": "rychlejsi-vyhrava-proste.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Se ti to možná smázlo",
+      "filename": "se-ti-to-mozna-smazlo.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Tady umřem",
+      "filename": "tady-umrem.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Light super-flash!",
+      "filename": "tak-si-kup-od-applu-ten-light-super-flash.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Tak to zas neni taková pecka",
+      "filename": "tak-to-za-neni-takova-pecka.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "To ani nebolelo",
+      "filename": "to-ani-nebolelo.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "To má rad",
+      "filename": "to-ma-rad.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "To znamená co?",
+      "filename": "to-znamena-co.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Ty jsi génius",
+      "filename": "ty-jsi-genius.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Vraž mu",
+      "filename": "vrazmu.mp3",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "name": "Zvjerstva!",
+      "filename": "zvejrstva.mp3",
+      "tags": [
+        "new"
+      ]
     }
   ]
 }
