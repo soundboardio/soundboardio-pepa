@@ -8,8 +8,8 @@
   },
   "lang": "cs",
   "color": "#795548",
-  "version": "1.0.0",
-  "rootUrl": "https://soundboardio.aquasoup.com/pepa/",
+  "version": "1.1.0",
+  "rootUrl": "https://media.soundboardio.com/pepa/",
   "icons": [
     {
       "src": "/icons/icon-512.png",
